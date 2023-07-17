@@ -2755,3 +2755,26 @@ table.order-details tbody td {
   vertical-align: middle;
   width: 100%;
 }
+::-webkit-scrollbar{
+  width:1vw;
+  position:absolute;
+  top:0;
+  right:0;
+}
+::-webkit-scrollbar-track{
+  background-color: black;
+
+
+}
+
+
+::-webkit-scrollbar-thumb {
+  background-color:#F28123;
+  border-radius: 1vw;
+  border: 0.2vw solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #fff;
+}

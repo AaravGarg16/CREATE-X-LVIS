@@ -1358,6 +1358,19 @@ a.mobile-show.search-bar-icon:hover {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  animation:changer 15s infinite ease-in-out;
+}
+
+@keyframes changer{
+  0%
+  {
+      background-image: url(../img/Drone1.jpg);
+  }
+  
+  50%
+  {
+      background-image: url(../img/drone5.jpg);
+  }
 }
 
 .hero-text {

@@ -199,6 +199,18 @@
 	    z-index: 999;
 	    color: #fff;
 	}
+	.abt-bg {
+		background-image: url(../img/abt.jpg);
+		height: 93%;
+		width: 90%;
+		background-size: cover;
+		background-position: center;
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		position: center;
+		z-index: 1;
+		overflow: hidden;
+	  }
 
 }
 

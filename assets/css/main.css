@@ -2151,14 +2151,14 @@ a.video-play-btn {
 }
 
 .feature-bg:after {
-  background-image: url(../img/feature-bg.jpg);
+  background-image: url(../img/Drone2.jpg);
   position: absolute;
-  right: 0;
-  top: 0;
-  width: 40%;
-  height: 100%;
+  right: 27px;
+  top: 38px;
+  width: 38%;
+  height: 90%;
   content: "";
-  background-size: cover;
+  background-size:cover;
   background-position: center;
   border-top-left-radius: 5px;
   -webkit-box-shadow: 0 0 20px #cacaca;
